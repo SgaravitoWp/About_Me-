@@ -24,7 +24,7 @@ Skills:
 
 ### Social media
 
-- [LinkedIn Profile](https://www.linkedin.com/notifications/)
+- [LinkedIn Profile](https://www.linkedin.com/in/samuel-jacobo-garavito-segura-mathpy/)
 - [GitHub Profile](https://github.com/SgaravitoWp/About_Me)
 
 
