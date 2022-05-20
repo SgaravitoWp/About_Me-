@@ -1,5 +1,5 @@
 ## Project Catalogue 
-In this section you will see all  my completed and in process projects with a brief description, but don't worry, in each directory everything is perfectly explained. 
+In this section you will see all  my completed and in process projects with a brief description, but Don't worry!, in each directory everything is perfectly explained. 
 
 ### Let's see:
 
