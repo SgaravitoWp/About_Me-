@@ -5,5 +5,6 @@ In this section you will see all  my completed and in process projects with a br
 
 1. **Percolation and Critical Probability Project:** In this project, together with my partners Jose Beleno and Luis Rojas, we studied the percolation process through a computational simulation.
 2. **Evaluation of Random Number Generation Methods Project. (In progress)**
-3. **Bayesian Perspective Project. (In progress)**
+3. **Bayesian Perspective Project**: In this article a study of Bayes' methodology from the perspective of Math's Criticism is made.
+
 
