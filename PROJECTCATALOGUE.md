@@ -9,5 +9,7 @@ In this section you will see all  my completed and in process projects with a br
 4. **Bayesian Perspective Project**: In this article a study of Bayes' methodology from the perspective of Math's Criticism is made.
 5. **OlimAPI**: In this repository you will find a RESTAPI designed for consulting company information from the portal [einforma](https://www.einforma.co/buscador-empresas-empresarios). 
 
+OlimAPI repository: [OlimAPI](https://github.com/SgaravitoWp/OlimpiaIT). 
+
 
 
