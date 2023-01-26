@@ -2,7 +2,7 @@
 
 ### In this respository you will find all my projects and jobs together with my personal info, so Enjoy it!
 
-<div style="text-align: justify">It is a pleasure to welcome you to my LinkedIn profile. I will tell you about my professional experience and skills.
+<div style="text-align: justify">It is a pleasure to welcome you to my GitHub profile. I will tell you about my professional experience and skills.
 
 Experience:
 
