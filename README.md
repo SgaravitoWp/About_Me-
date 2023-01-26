@@ -2,25 +2,29 @@
 
 ### In this respository you will find all my projects and jobs together with my personal info, so Enjoy it!
 
-<div style="text-align: justify"> Beforehand, I will tell you about my professional experience and skills. 
+<div style="text-align: justify">It is a pleasure to welcome you to my LinkedIn profile. I will tell you about my professional experience and skills.
 
 Experience:
 
-- Operational experience working as a Python/RPA developer and debugger. In charge of finding solutions for data extraction and manipulation. Skills: Web Scraping and Pandas. 
+- Operational experience working as a Python/RPA developer and debugger. Responsible for collating and verifying data from multiple sources, assisting with the implementation of data software storage systems and executing data transfers using robotframework.
 
-- Front-end Web experience with HTML5, CSS3, JavaScript and Bootstrap. Able to create resposive and attractive websites. Skills: Web development, UI and UX. 
+- REST API development experience using Flask and Fast API. Rest Applications implemented and deployed in Docker.
 
-- Data Science experience with IPython/Jupyter Notebooks. Able to implement, document and interpret Regression models results for decision making. Skills: Numpy, Pandas, Matplotlib, Scikit-learn and networkx. 
+- IT automation for Linux systems with Python. In charge of finding opportunities for automation within software processes, identify bugs and quality issues in development.
 
 Skills:
 
-- Python: Proficiency in Python (2 years) with different frameworks and tools using object oriented programming. 
+- Python: Proficiency in Python (3 years).
 
-- Statistical Background: Good knowledge of statistical tools. Hypothesis testing, Goodness of fit and Regression Models.
+- SQL: Competent in SQL (1 year). 
 
-- Control Versioning with Git and Github. 
+- Linux: Competent in Bash (1 year)
 
-- Bilingualism: English C1 Proficiency.</div>
+- Control Versioning with Git and Github.
+
+- Bilingualism: English C1 Proficiency.
+
+</div>
 
 ### Social media
 
