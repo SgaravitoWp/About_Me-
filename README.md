@@ -1,35 +1,33 @@
-## Welcome to my GitHub Profile 
+# 👋 Bienvenido a mi perfil de GitHub
 
-### In this respository you will find all my projects and jobs together with my personal info, so Enjoy it!
+## Sobre mí
 
-<div style="text-align: justify">It is a pleasure to welcome you to my GitHub profile. I will tell you about my professional experience and skills.   
-<p>&nbsp;</p>  
-Experience:
+Hola, soy Samuel Garavito y estoy emocionado de que estés aquí. Este es un espacio donde comparto mis proyectos y mi trabajo en el mundo del desarrollo de software.
 
-- Operational experience working as a Python/RPA developer and debugger. Responsible for collating and verifying data from multiple sources, assisting with the implementation of data software storage systems and executing data transfers using robotframework.
+En este repositorio, podrás encontrar información sobre mí junto a mi CV. Siempre estoy buscando aprender y crecer, así que no dudes en explorar lo que tengo para ofrecer.
 
-- REST API development experience using Flask and Fast API. Rest Applications implemented and deployed in Docker.
+## 🛠️ Mis Proyectos
 
-- IT automation for Linux systems with Python. In charge of finding opportunities for automation within software processes, identify bugs and quality issues in development.
+Te invito a navegar y descubrir mis otros proyectos:
 
-Skills:
+- **[hotsbog](enlace-a-tu-proyecto)**: Hot'sBog es una aplicación web que permite a los usuarios registrar hurtos y visualizar datos sobre zonas afectadas por la inseguridad de manera intuitiva **(Python)**.
+- **[coink-rest-api](https://github.com/SgaravitoWp/coink-rest-api.git)**: Coink Rest API es una API RESTful que permite registrar usuarios y consultar información geográfica, ofreciendo una solución robusta y escalable para la gestión de datos **(.NET/C#)**.
+- **[airbnb-rest-api](enlace-a-tu-proyecto)**: Airbnb REST API es una API REST que utiliza web scraping para consultar hospedajes en Airbnb, ya que no dispone de una API pública. **(Python)**.
 
-- Python: Proficiency in Python (3 years).
+Cada proyecto es una oportunidad para aprender y experimentar, ¡y espero que encuentres algo que te inspire!
 
-- SQL: Competent in SQL (1 year). 
+## 📫 ¿Cómo Contactarme?
 
-- Linux: Competent in Bash (1 year)
+Si deseas ponerte en contacto conmigo, no dudes en hacerlo a través de [tu correo electrónico](mailto:sgaravito@unal.edu.co) o en mis redes sociales:
 
-- Control Versioning with Git and Github.
+- [LinkedIn](https://linkedin.com/in/samuel-jacobo-garavito-segura)
+- [GitHub](https://github.com/SgaravitoWp)
 
-- Bilingualism: English C1 Proficiency.
+## 🎉 ¡Anímate a contribuir!
 
-</div>
+Si encuentras algo interesante o tienes sugerencias, ¡no dudes en abrir un issue o contribuir a mis proyectos! Estoy abierto a colaboraciones y nuevas ideas.
 
-### Social media
+¡Gracias por visitar mi perfil y espero que disfrutes explorando mis proyectos!
 
-- [LinkedIn Profile](https://www.linkedin.com/in/samuel-jacobo-garavito-segura-mathpy/)
-- [GitHub Profile](https://github.com/SgaravitoWp/About_Me)
-
-
+---
 
